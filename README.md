@@ -32,7 +32,7 @@ Using Python and Pandas functions, you’ll convert the "tripduration" column fr
 
 Your final results should look similar to the following image:
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/Des-Moines-Bike-Sharing/blob/main/Resources/Images/s5.png?raw=true)
+![name-of-you-image](https://github.com/bienfaitza/challenge-14/blob/659849acb364f2ea1cda590e5332c7269002211c/Resources/Images/s5.png)
 
 
 
