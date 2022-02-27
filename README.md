@@ -1,3 +1,11 @@
+# Note : for tableau work i failed to upload  "Des-Moines-Bike-Sharing.twbx" file because is 57MB
+
+![name-of-you-image](https://github.com/bienfaitza/challenge-14/blob/6584b294c621f592766f2af6f0e4594d8e1f91e4/Resources/Images/file.png)
+
+# Story Image
+
+![name-of-you-image](https://github.com/bienfaitza/challenge-14/blob/6584b294c621f592766f2af6f0e4594d8e1f91e4/Resources/Images/story.png)
+
 # Des Moines - Bike Sharing Project
 ## Overview of Project
 Now that we've gotten a good idea of how to create our story, there is still some more work to be done to convince investors that a bike-sharing program in Des Moines is a solid business proposal. To solidify the proposal, one of the key stakeholders would like to see a bike trip analysis.
